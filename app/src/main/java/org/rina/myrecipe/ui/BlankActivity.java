@@ -14,6 +14,6 @@ public class BlankActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_blank);
-        StartAppAd.showAd(BlankActivity.this);
+//        StartAppAd.showAd(BlankActivity.this);
     }
 }
